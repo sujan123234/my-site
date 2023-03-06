@@ -59,6 +59,22 @@ h1, h2, h3, h4, h5, h6, p{
     margin: 15px 0;
     transition: var(--transition);
 }
+.btn1{
+    background: var(--darkGreen);
+    border: none;
+    display: block;
+    width: 300px;
+    text-align: center;
+    color: var(--darkGreen);
+    text-transform: uppercase;
+    background: transparent;
+    font-size: 15px;
+    padding: 12px;
+    border: 2px solid var(--darkGreen);
+    border-radius: 25px;
+    margin: 15px 0;
+    transition: var(--transition);
+}
 .btn:hover{
     background: var(--darkGreen);
     color: #fff;
